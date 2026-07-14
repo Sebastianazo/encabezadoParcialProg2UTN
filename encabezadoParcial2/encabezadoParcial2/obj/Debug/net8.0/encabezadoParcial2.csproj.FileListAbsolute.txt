@@ -1,0 +1,14 @@
+C:\Users\NEW\source\repos\encabezadoParcial2\encabezadoParcial2\bin\Debug\net8.0\encabezadoParcial2.exe
+C:\Users\NEW\source\repos\encabezadoParcial2\encabezadoParcial2\bin\Debug\net8.0\encabezadoParcial2.deps.json
+C:\Users\NEW\source\repos\encabezadoParcial2\encabezadoParcial2\bin\Debug\net8.0\encabezadoParcial2.runtimeconfig.json
+C:\Users\NEW\source\repos\encabezadoParcial2\encabezadoParcial2\bin\Debug\net8.0\encabezadoParcial2.dll
+C:\Users\NEW\source\repos\encabezadoParcial2\encabezadoParcial2\bin\Debug\net8.0\encabezadoParcial2.pdb
+C:\Users\NEW\source\repos\encabezadoParcial2\encabezadoParcial2\obj\Debug\net8.0\encabezadoParcial2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NEW\source\repos\encabezadoParcial2\encabezadoParcial2\obj\Debug\net8.0\encabezadoParcial2.AssemblyInfoInputs.cache
+C:\Users\NEW\source\repos\encabezadoParcial2\encabezadoParcial2\obj\Debug\net8.0\encabezadoParcial2.AssemblyInfo.cs
+C:\Users\NEW\source\repos\encabezadoParcial2\encabezadoParcial2\obj\Debug\net8.0\encabezadoParcial2.csproj.CoreCompileInputs.cache
+C:\Users\NEW\source\repos\encabezadoParcial2\encabezadoParcial2\obj\Debug\net8.0\encabezadoParcial2.dll
+C:\Users\NEW\source\repos\encabezadoParcial2\encabezadoParcial2\obj\Debug\net8.0\refint\encabezadoParcial2.dll
+C:\Users\NEW\source\repos\encabezadoParcial2\encabezadoParcial2\obj\Debug\net8.0\encabezadoParcial2.pdb
+C:\Users\NEW\source\repos\encabezadoParcial2\encabezadoParcial2\obj\Debug\net8.0\encabezadoParcial2.genruntimeconfig.cache
+C:\Users\NEW\source\repos\encabezadoParcial2\encabezadoParcial2\obj\Debug\net8.0\ref\encabezadoParcial2.dll
